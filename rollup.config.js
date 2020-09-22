@@ -4,7 +4,7 @@ import babel from 'rollup-plugin-babel';
 export default {
 	input:'./index.js',
 	output:{
-		file:'./animationfactory.js',
+		file:'./build/animationfactory.js',
 		format:'umd',
 		name:'AF'
 	},
