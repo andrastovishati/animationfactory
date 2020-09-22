@@ -1,4 +1,4 @@
-# animationfactory
+# Animation Factory
 Animation Factory is a lightweight javascript animation engine.
 
 ## Usage
