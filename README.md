@@ -1,7 +1,7 @@
 # animationfactory
 Animation Factory is a lightweight javascript animation engine.
 
-##Usage
+## Usage
 
 ```javascript
 AF.create('myFirstAnimation', {
@@ -23,7 +23,7 @@ AF.play('myFirstAnimation');
 
 ```
 
-###Animate more things together:
+### Animate more things together:
 
 ```javascript
 AF.create('mySecondAnimation', {
